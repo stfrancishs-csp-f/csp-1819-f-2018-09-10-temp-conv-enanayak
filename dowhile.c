@@ -4,7 +4,7 @@ int main(void)
 {
     int fahr;
 
-    for (fahr = -100; fahr <= 100; fahr = fahr +20)
+    for (fahr = -100; fahr <= 100; fahr = fahr +10)
 
     //fahr values from -100 to 100 in incriments of 10
     {
